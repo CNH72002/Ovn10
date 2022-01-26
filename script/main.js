@@ -1,5 +1,5 @@
 "use strict";
-"use strict";
+
 let result;
 
 //Variables
@@ -33,7 +33,7 @@ function ProcessInfo2() {
 
 
 
-
+//let s = `Value 1: ${value1}, Value 2: ${value2}`;
 
 
 
